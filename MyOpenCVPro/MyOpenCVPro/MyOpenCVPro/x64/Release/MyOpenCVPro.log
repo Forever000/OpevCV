@@ -1,0 +1,23 @@
+﻿  QuickOpenCV.cpp
+d:\vs++\myopencvpro\myopencvpro\myopencvpro\quickopencv.cpp(364): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\vs++\myopencvpro\myopencvpro\myopencvpro\quickopencv.cpp(383): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\vs++\myopencvpro\myopencvpro\myopencvpro\quickopencv.cpp(387): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\vs++\myopencvpro\myopencvpro\myopencvpro\quickopencv.cpp(388): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\vs++\myopencvpro\myopencvpro\myopencvpro\quickopencv.cpp(398): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\vs++\myopencvpro\myopencvpro\myopencvpro\quickopencv.cpp(399): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\vs++\myopencvpro\myopencvpro\myopencvpro\quickopencv.cpp(400): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  main.cpp
+  正在生成代码
+  1 of 99 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  MyOpenCVPro.vcxproj -> D:\vs++\MyOpenCVPro\MyOpenCVPro\x64\Release\MyOpenCVPro.exe

@@ -1,0 +1,19 @@
+﻿  main.cpp
+  QuickOpenCV.cpp
+d:\vs++\myopencvpro\myopencvpro\myopencvpro\quickopencv.cpp(252): warning C4018: “<”: 有符号/无符号不匹配
+d:\vs++\myopencvpro\myopencvpro\myopencvpro\quickopencv.cpp(364): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\vs++\myopencvpro\myopencvpro\myopencvpro\quickopencv.cpp(383): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\vs++\myopencvpro\myopencvpro\myopencvpro\quickopencv.cpp(387): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\vs++\myopencvpro\myopencvpro\myopencvpro\quickopencv.cpp(388): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\vs++\myopencvpro\myopencvpro\myopencvpro\quickopencv.cpp(398): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\vs++\myopencvpro\myopencvpro\myopencvpro\quickopencv.cpp(399): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\vs++\myopencvpro\myopencvpro\myopencvpro\quickopencv.cpp(400): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+opencv_world480.lib(opencv_world480.dll) : fatal error LNK1112: 模块计算机类型“x64”与目标计算机类型“x86”冲突
